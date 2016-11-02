@@ -1,7 +1,7 @@
-# Text-to-Speech-to-Voice-Chat
+# Type to Voice Chat
 
 ## What is this?
-This batch script links together a few programs to allow you to generate speech by typing which can be played into an input for voice chatting software such as Discord or Skype.
+This batch script converts text you type into sound and transmits it to voice chatting programs such as Discord or Skype.
 
 This works on Windows only.
 
