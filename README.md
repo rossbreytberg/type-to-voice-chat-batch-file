@@ -26,7 +26,7 @@ Verify the included `speak.bat` file has the correct values for the `ESPEAK_PATH
 
 ## *(Optional, but Recommended)* Improved Voice
 1. Follow the [Mbrola Voice](http://espeak.sourceforge.net/mbrola.html) instructions to allow eSpeak to use improved voices. (The `en1` voice sounds the most natural.)
-2. Edit the included `speak.bat` file to change the `ESPEAK_VOICE` variable to be the name of the Mbrola voice, such as `mb-en`.
+2. Edit the included `speak.bat` file to change the `ESPEAK_VOICE` variable to be the name of the Mbrola voice, such as `mb-en1`.
 
 ## Additional Voice Adjustments
 Adjust the `ESPEAK_SPEED` and `ESPEAK_VOLUME` variables as necessary.
