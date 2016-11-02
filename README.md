@@ -3,7 +3,7 @@
 ## What is this?
 This batch script converts text you type into sound and transmits it to voice chatting programs such as Discord or Skype.
 
-This works on Windows only.
+(Windows only)
 
 ## Setup Instructions
 1. **Install [eSpeak](http://espeak.sourceforge.net/)** for generating speech from text.
